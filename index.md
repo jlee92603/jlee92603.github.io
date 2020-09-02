@@ -26,7 +26,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and 
-Here is a picture of sun ![Sun Picture](sun_pic.JPG)
+Here is a picture ![Picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.w3schools.com%2Fw3css%2Fw3css_images.asp&psig=AOvVaw1Upl4PHMa1K2enUjvb6SnE&ust=1599155022381000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjAi-uCy-sCFQAAAAAdAAAAABAD)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
