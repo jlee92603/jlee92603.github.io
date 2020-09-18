@@ -38,3 +38,5 @@ When I die, I want to be buried just like this:
 - And then feed the last 1/5 to a polar bear in the arctic. 
 
 ![GRAVE](https://fc02.deviantart.net/fs70/i/2012/267/9/2/rose_emerging_from_grave_by_hmanuk-d5fqm9y.jpg)
+
+[link](/about/contact/)
