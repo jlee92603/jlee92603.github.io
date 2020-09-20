@@ -9,10 +9,10 @@ background_image: https://wallpaperaccess.com/full/523213.jpg
 body {
     background-color: white;
 }
-h1   {color: white;}
-.main-content {color: white;}
+h1   {color: ivory;}
+.main-content {color: ivory;}
 section a     {color: lime;}
-section p     {color: white;}
+section p     {color: ivory;}
 </style>
 
 You attack him, but he is a ninja warrior! With his super fast senses, he takes out his katana and kills you in one swipe. You died.
