@@ -6,7 +6,7 @@ Jihye is Babo.
 
 My favorite color is red. But also black and white and navy blue. However, despite liking these colors, sometimes their color combination is not always the best. Black and red give me dark and dangerous vibes. People tell me, when I wear my red and white striped shirt, I look like Where's Waldo. Do you get what I mean? And when I wear all these colors together, I remind myself of the Korean flag haha. 
 
-![waldo](https://pmcdeadline2.files.wordpress.com/2016/03/wheres-waldo.jpg?w=600)
+![waldo](https://library.kissclipart.com/20190210/bwq/kissclipart-wheres-waldo-clipart-wheres-wally-wheres-waldo-d23fb5341d6071b0.png)
 
 ### Favorite Music
 
@@ -40,3 +40,5 @@ When I die, I want to be buried just like this:
 ![GRAVE](https://fc02.deviantart.net/fs70/i/2012/267/9/2/rose_emerging_from_grave_by_hmanuk-d5fqm9y.jpg)
 
 [link](jlee92603.github.io/question/)
+
+[story01](/story01/)
