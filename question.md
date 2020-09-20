@@ -1,6 +1,9 @@
 ---
+author: HeyG
+background image:
+https://lh3.googleusercontent.com/proxy/xvJ5QlH-o30naahmCQ1D5K-PuLs-FSuVqyR0EXT0zEy7ln6fWc8xZfCalb_hpo7Q-BO1oc6p-lHK3RSBj_6Qtmal5Cs6PK-cmEdLlCXwNtJch-s7xn0t3DIO2pjMpfs 
 layout: post-with-background
-title: "Question"
+title: "Questions"
 permalink: /question/
 ---
 
