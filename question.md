@@ -1,5 +1,5 @@
 ---
-layout: post-with-background
+layout: default
 title: "Question"
 permalink: /question/
 ---
