@@ -11,8 +11,11 @@ body {
 }
 h1   {color: white;}
 .main-content {color: white;}
-section a     {color: aqua;}
+section a     {color: lightBlue;}
+section p     {color: white;}
 </style>
 
 It raining and starting to get dark in the forest, so you start looking for a place to sleep. You find an old cottage in the woods. Do you enter?
 
+
+[enter](/story01-1/)  or   [don't enter](/story01-2/)
