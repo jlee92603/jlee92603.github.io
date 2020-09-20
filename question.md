@@ -1,7 +1,7 @@
 ---
 author: HeyG
 background image:
-https://lh3.googleusercontent.com/proxy/xvJ5QlH-o30naahmCQ1D5K-PuLs-FSuVqyR0EXT0zEy7ln6fWc8xZfCalb_hpo7Q-BO1oc6p-lHK3RSBj_6Qtmal5Cs6PK-cmEdLlCXwNtJch-s7xn0t3DIO2pjMpfs 
+https://www.nationalgeographic.com/content/dam/science/2020/09/18/covid-misinformation/batog_ss2442973.adapt.133.1.jpg
 layout: post-with-background
 title: "Questions"
 permalink: /question/
