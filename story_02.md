@@ -11,7 +11,7 @@ body {
 }
 h1   {color: paleTurquoise;}
 .main-content {color: paleTurquoise;}
-section a     {color: fireBrick;}
+section a     {color: yellow;}
 section p     {color: paleTurquoise;}
 </style>
 
