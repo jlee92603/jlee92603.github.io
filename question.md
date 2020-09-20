@@ -3,6 +3,7 @@ author: HeyG
 layout: page-with-background
 title: "Questions"
 permalink: /question/
+background_image: https://img.pngio.com/anime-city-scenery-wallpaper-widescreen-2-hd-wallpapers-screen-png-scenery-backgrounds-1920_1080.png
 ---
 
 
