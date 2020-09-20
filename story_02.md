@@ -7,7 +7,7 @@ background_image: https://i0.wp.com/thesimplyluxuriouslife.com/wp-content/upload
 
 <style>
 body {
-    background-color: deepSkyBlue;
+    background-color: white;
 }
 h1   {color: deepSkyBlue;}
 .main-content {color: deepSkyBlue;}
