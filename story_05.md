@@ -1,7 +1,7 @@
 ---
 layout: page-with-background
-title: "Story 01"
-permalink: /story01/
+title: "Story 05"
+permalink: /story05/
 background_image: https://wallpaperaccess.com/full/523213.jpg  
 ---
 
