@@ -42,3 +42,5 @@ When I die, I want to be buried just like this:
 [link](jlee92603.github.io/question/)
 
 {% post_url 2020-09-19-new-post %}
+
+{% post_url 01-post %}
