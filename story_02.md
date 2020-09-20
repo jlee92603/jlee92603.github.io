@@ -7,12 +7,12 @@ background_image: https://i0.wp.com/thesimplyluxuriouslife.com/wp-content/upload
 
 <style>
 body {
-    background-color: white;
+    background-color: paleTurquoise;
 }
-h1   {color: white;}
-.main-content {color: white;}
+h1   {color: paleTurquoise;}
+.main-content {color: paleTurquoise;}
 section a     {color: fireBrick;}
-section p     {color: white;}
+section p     {color: paleTurquoise;}
 </style>
 
 You knock on the cottage door, but no one answers. You walk in and find food in the fridge so you eat. Then feeling sleepy, you walk over to the bed to sleep, but find a very handsome man on the bed. What do you do?
