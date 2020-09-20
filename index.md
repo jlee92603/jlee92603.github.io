@@ -40,7 +40,3 @@ When I die, I want to be buried just like this:
 ![GRAVE](https://fc02.deviantart.net/fs70/i/2012/267/9/2/rose_emerging_from_grave_by_hmanuk-d5fqm9y.jpg)
 
 [link](jlee92603.github.io/question/)
-
-{% post_url 2020-09-19-new-post %}
-
-{% post_url 01-post %}
