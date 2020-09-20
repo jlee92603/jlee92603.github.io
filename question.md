@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: post-with-background
 title: "Question"
 permalink: /question/
-theme: minimal
 ---
 
 <h1>If a grizzly bear and polar bear mate, what is their offspring called?</h1>
