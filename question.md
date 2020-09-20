@@ -1,6 +1,6 @@
 ---
 author: HeyG
-layout: post-with-background
+layout: page-with-background
 title: "Questions"
 permalink: /question/
 ---
