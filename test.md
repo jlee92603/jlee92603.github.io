@@ -1,13 +1,11 @@
 ---
 layout: page-custom-background
-title: "Hello!"
 permalink: /test/
-background_image: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ8NDQ0NFREWFhURExUYHSggGBolGxUTITEhJSk3LjouFx8zODMtNygtLisBCgoKDQ0NDw0NDisZFRkrNy0rNy03KysrLS0rLSsrKy0rKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIALcBEwMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAAAQIH/8QAFhABAQEAAAAAAAAAAAAAAAAAAAER/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECBP/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDrWLimOJ0Ji4uLiiYuKCJhiiiYYqgzhiqDOGNAJhi4AmGKAmGKAmGKAmGKCpi4AgYoCGKAgoDKNVmsqyKI0RQVKKKqAAAoqIKIIKAgooAAAAgKggAoACgAACKigIKgqVFSoIgIqwIqgqKqKAAAAAAAAAqAAAAACKIoAAAAAqKAAAioCVKtSoMgI0RUkVUqiKqKIoKIAogCiKAAAAoAiCiKCAuAAAAAKigAAIqUESqlRUAQAVQFFRFMUEFAQABQAAAAAAAAABQRQBFAAAFEAEVARKqVFQBAjTKqVVRVQAAAABQQUBAAAUAAAAAAAAEVAFEUAABFQESqiKgCAqKpVVBUUBUAEUABRAAVAAAFRQEUARQAABFQFEUAABFQESrWaioCIrSxFVKqpFVABUAAAEUAAAAAAVFAAUAEBABQQBQAAARUBKi1lFMAQFRVKqsqqKAqAAAICgAAAAAAAKgCoAACKogCiAKAAioAy1WaioAgkqsxpSqqRVQAVAAAAAFBFEAUQFAAAAAAAAAAARVQAAAGVSoIAisrGVlFaVlYrLQgqKgKCoAoAKgAAAKgAAAqAKIoAigCCCgCiKgCFSoqCoisKALKuoKjRoKgAAoKgoIIAoAAoCAAoAIAAAAoAAoAiAAlBFRARX//2Q==
 ---
 
 <style>
 body {
-    background-color: rgb(20, 20, 20);
+    background-color: #FFEEDB;
     text-align: center;
     height: 100%;
     overflow: hidden;
@@ -41,13 +39,13 @@ body {
   stroke-dashoffset: 0;
   stroke-dasharray: 760;
 }
-h1   { color: steelBlue;
+h1   { color: coral;
     font-family: 'Roboto Condensed';
 }
 .main-content {color: coral;
     font-family: 'Roboto Condensed';
 }
-section a     {color: lightSteelBlue;
+section a     {color: steelBlue;
     font-family: 'Roboto Condensed';
 }
 section p     {color: coral;
