@@ -51,7 +51,7 @@ section a     {color: steelBlue;
 section p     {color: coral;
     font-family: 'Roboto Condensed';
 }
-.spacing {word-spacing: 3.5em;}
+.spacing {word-spacing: 3em;}
 </style>
 
 
