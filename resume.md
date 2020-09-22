@@ -1,6 +1,5 @@
 ---
-layout: page-custom-background
-title: "My Resume"
+layout: page-background-2
 permalink: /resume/
 ---
 
@@ -22,7 +21,7 @@ body {
   stroke-dashoffset: -474;
   stroke-width: 8px;
   fill: transparent;
-  stroke: A7D7C5;
+  stroke: #A7D7C5;
   border-bottom: 5px solid black;
   transition: stroke-width 1s, stroke-dashoffset 1s, stroke-dasharray 1s;
 }
@@ -35,6 +34,7 @@ body {
   top: -48px;
   position: relative;
 }
+.text a {color:#5C8D89;}
 .svg-wrapper:hover .shape {
   stroke-width: 2px;
   stroke-dashoffset: 0;
