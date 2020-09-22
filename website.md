@@ -60,7 +60,7 @@ section p     {color: coral;
     <svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
       <rect class="shape" height="60" width="320" />
 
-      <div class="text"><a href="/resume/">Jihye's Website</a></div>
+      <div class="text"><a href="https://jlee92603.github.io">Jihye's Website</a></div>
 
     </svg>
   </div>
