@@ -5,7 +5,7 @@ permalink: /contact/
 
 <style>
 body {
-    background-color: #FFFDF0;
+    background-color: #FFF6F5;
     text-align: center;
     height: 100%;
     overflow: hidden;
