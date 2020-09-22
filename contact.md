@@ -5,7 +5,7 @@ permalink: /contact/
 
 <style>
 body {
-    background-color: #FFFFF0;
+    background-color: #FFFDF0;
     text-align: center;
     height: 100%;
     overflow: hidden;
@@ -21,7 +21,7 @@ body {
   stroke-dashoffset: -474;
   stroke-width: 8px;
   fill: transparent;
-  stroke: #FDAAAA;
+  stroke: #F4C1C1;
   border-bottom: 5px solid black;
   transition: stroke-width 1s, stroke-dashoffset 1s, stroke-dasharray 1s;
 }
@@ -30,26 +30,26 @@ body {
   font-size: 22px;
   line-height: 32px;
   letter-spacing: 8px;
-  color: #FDAAAA;
+  color: #F4C1C1;
   top: -48px;
   position: relative;
 }
-.text a {color:#F97C7C;}
+.text a {color:#EE6969;}
 .svg-wrapper:hover .shape {
   stroke-width: 2px;
   stroke-dashoffset: 0;
   stroke-dasharray: 760;
 }
-h1   { color: #F97C7C;
+h1   { color: #F4C1C1;
     font-family: 'Roboto Condensed';
 }
-.main-content {color: #FDAAAA;
+.main-content {color: #F4C1C1;
     font-family: 'Roboto Condensed';
 }
 section a     {color: #EE6969;
     font-family: 'Roboto Condensed';
 }
-section p     {color: #FDAAAA;
+section p     {color: #F4C1C1;
     font-family: 'Roboto Condensed';
 }
 </style>
