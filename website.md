@@ -67,7 +67,7 @@ section p     {color: coral;
 
 Here is my content. 
 
-![bear](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400263.jpg){:height="100px" width="100px"}         
+![bear](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400263.jpg){:height="100px" width="100px"} ![bear1](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400286.jpg){:height="100px" width="100px"} ![bear2](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400266.jpg){:height="100px" width="100px"}
 
 "Hello bear"
 
