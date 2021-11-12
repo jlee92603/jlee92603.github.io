@@ -21,7 +21,7 @@ When I die, I want to be buried just like this:
 - Sprinkle 1/5 of my ashes on the tallest place on earth, 1/5 on the deepest place on earth, 1/5 on the coldest place on earth, and 1/5 on the hottest place on earth. 
 - And then feed the last 1/5 to a polar bear in the arctic. 
 
-![BEAR](https://static.wikia.nocookie.net/line/images/b/bb/2015-brown.png/revision/latest?cb=20150808131630)
+![BEAR](https://wallpaperaccess.com/full/215273.jpg)
 
 [link](jlee92603.github.io/question/)
 
