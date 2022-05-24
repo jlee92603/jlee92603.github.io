@@ -8,18 +8,13 @@ My favorite color is red.
 
 ### Hobbies
 
-I love making music. I love playing the different instruments (oboe, drum, piano) and making music arrangements, and creating music covers on music editing software. I also love dancing, singing, and making music videos. Recently I found a new hobby: coding. It's fun. I also like sewing and watching Kdramas and eating and bears and card games and Genshin Impact. 
+I love making music. I love playing the different instruments (oboe, drum, piano) and making music arrangements, and creating music covers on music editing software. I also love dancing, singing, and making music videos. 
 
 ### My Favorite Animal
 
-My favorite animal is bear. But not the real bear. I like the cartoon bear. Real bears are kind of ugly, but cartoon bears are cute. 
+My favorite animal is bear.  
 
-### My Burial 
 
-When I die, I want to be buried just like this: 
-- Make me into ashes
-- Sprinkle 1/5 of my ashes on the tallest place on earth, 1/5 on the deepest place on earth, 1/5 on the coldest place on earth, and 1/5 on the hottest place on earth. 
-- And then feed the last 1/5 to a polar bear in the arctic. 
 
 ![BEAR](https://i.pinimg.com/originals/53/f6/ab/53f6ab1a51f1175a377047f8843ae043.jpg)
 
