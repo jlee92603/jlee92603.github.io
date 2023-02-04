@@ -72,4 +72,4 @@ Here is my content.
 
 
 <span class="spacing">
-[HOME](https://jlee92603.github.io/website/)      [ABOUT](/blogs/)      [CONTACT](/contact/)</span>
+[HOME](https://jlee92603.github.io/website/)      [BLOGS](/blogs/)      [ABOUT](/contact/)</span>
