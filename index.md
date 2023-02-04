@@ -17,7 +17,3 @@ My favorite animal is bear.
 
 
 ![BEAR](https://i.pinimg.com/originals/53/f6/ab/53f6ab1a51f1175a377047f8843ae043.jpg)
-
-[link](jlee92603.github.io/question/)
-
-[story01](/story01/)
