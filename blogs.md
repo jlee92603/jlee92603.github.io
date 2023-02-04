@@ -1,6 +1,6 @@
 ---
 layout: page-background-2
-permalink: /resume/
+permalink: /blogs/
 ---
 
 <style>
