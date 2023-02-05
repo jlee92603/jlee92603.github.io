@@ -60,7 +60,7 @@ section p     {color: #A7D7C5;
     <svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
       <rect class="shape" height="60" width="320" />
 
-      <div class="text"><a href="/website/">Jihye's Website</a></div>
+      <div class="text"><a href="/website/">Y Direction</a></div>
 
     </svg>
   </div>
