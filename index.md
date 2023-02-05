@@ -4,7 +4,7 @@ Jihye.
 
 ### Favorite Color
 
-My favorite color is red. 
+My favorite color is red, beige, and ivory. 
 
 ### Hobbies
 
