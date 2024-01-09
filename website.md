@@ -66,12 +66,10 @@ section p     {color: #F4C1C1;
   </div>
 
 
-## Here are my Projects: 
+<p style> Here are my Projects: </p>
 
 ![bear](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400263.jpg){:height="100px" width="100px"} ![bear1](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400286.jpg){:height="100px" width="100px"} ![bear2](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400266.jpg){:height="100px" width="100px"}
 
-
-<span class="spacing">
     
 [Brain Tumor CNN Project](https://github.com/jlee92603/BrainTumor_CNN_Model/)
 
