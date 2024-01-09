@@ -4,7 +4,7 @@ layout: page-background-2
 
 <style>
 body {
-    background-color: #FFF8E6;
+    background-color: ##faf9f2;
     text-align: center;
     height: 100%;
     overflow: hidden;
