@@ -66,7 +66,7 @@ section p     {color: #F4C1C1;
   </div>
 
 
-<p style> Here are my Projects: </p>
+<h1 style> Here are my Projects: </h1>
 
 ![bear](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400263.jpg){:height="100px" width="100px"} ![bear1](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400286.jpg){:height="100px" width="100px"} ![bear2](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400266.jpg){:height="100px" width="100px"}
 
@@ -75,4 +75,4 @@ section p     {color: #F4C1C1;
 
 [Medical Image Exploration](https://github.com/jlee92603/medical_image_exploration)      
 
-[Project Profile Website](https://jlee92603.github.io/website/)</span>
+[Project Profile Website](https://jlee92603.github.io/website/)
