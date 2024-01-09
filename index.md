@@ -1,3 +1,7 @@
+---
+layout: page-background-3
+permalink: /contact/
+---
 Here is my content.
 <style>
 body {
