@@ -49,7 +49,7 @@ h1   { color: #F4C1C1;
 section a     {color: #EE6969;
     font-family: 'Roboto Condensed';
 }
-section p     {color: #F4C1C1;
+section p     {color: #EE6969;
     font-family: 'Roboto Condensed';
 }
 </style>
@@ -66,7 +66,7 @@ section p     {color: #F4C1C1;
   </div>
 
 
-<a><b> Here are my Projects: </b></a>
+<p><b> Here are my Projects: </b></p>
 
 ![bear](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400263.jpg){:height="100px" width="100px"} ![bear1](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400286.jpg){:height="100px" width="100px"} ![bear2](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400266.jpg){:height="100px" width="100px"}
 
