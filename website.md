@@ -70,8 +70,8 @@ section p     {color: #F4C1C1;
 
 ![bear](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400263.jpg){:height="100px" width="100px"} ![bear1](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400286.jpg){:height="100px" width="100px"} ![bear2](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400266.jpg){:height="100px" width="100px"}
 
-    
-[Brain Tumor CNN Project](https://github.com/jlee92603/BrainTumor_CNN_Model/)
+
+<a href="https://github.com/jlee92603/BrainTumor_CNN_Model/" style="color: #EE6969; text-decoration: underline;text-decoration-style: dotted;"> Brain Tumor CNN Project </a>
 
 [Medical Image Exploration](https://github.com/jlee92603/medical_image_exploration)      
 
