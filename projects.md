@@ -1,6 +1,6 @@
 ---
 layout: page-background-3
-permalink: /website/
+permalink: /projects/
 ---
 
 <style>
@@ -75,5 +75,5 @@ section p     {color: #EE6969;
 
 <a href="https://github.com/jlee92603/medical_image_exploration" style="color: #EE6969"> Medical Image Exploration </a>
 
-<a href="https://jlee92603.github.io/website/" style="color: #EE6969"> Project Profile Website </a>
+<a href="https://jlee92603.github.io/projects/" style="color: #EE6969"> Project Profile Website </a>
 
