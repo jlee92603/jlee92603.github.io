@@ -4,7 +4,7 @@ permalink: /website/
 ---
 
 <style>
-body {
+body { 
     background-color: #FFEEDB;
     text-align: center;
     height: 100%;
