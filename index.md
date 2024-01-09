@@ -3,7 +3,7 @@ layout: page-background-3
 permalink: /contact/
 ---
 Here is my content.
-<style>
+<style> 
 body {
     background-color: #FFF6F5;
     text-align: center;
