@@ -1,5 +1,6 @@
 ---
 layout: page-background-3
+permalink:/
 ---
 
 <style>
