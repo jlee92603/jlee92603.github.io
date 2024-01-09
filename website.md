@@ -71,8 +71,9 @@ section p     {color: #EE6969;
 ![bear](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400263.jpg){:height="100px" width="100px"} ![bear1](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400286.jpg){:height="100px" width="100px"} ![bear2](https://images.assetsdelivery.com/compings_v2/cgdeaw/cgdeaw1904/cgdeaw190400266.jpg){:height="100px" width="100px"}
 
 
-<a href="https://github.com/jlee92603/BrainTumor_CNN_Model/" style="color: #EE6969; text-decoration: underline;text-decoration-style: dotted;"> Brain Tumor CNN Project </a>
+<a href="https://github.com/jlee92603/BrainTumor_CNN_Model/" style="color: #EE6969"> Brain Tumor CNN Project </a>
 
-[Medical Image Exploration](https://github.com/jlee92603/medical_image_exploration)      
+<a href="https://github.com/jlee92603/medical_image_exploration" style="color: #EE6969"> Medical Image Exploration </a>
 
-[Project Profile Website](https://jlee92603.github.io/website/)
+<a href="https://jlee92603.github.io/website/" style="color: #EE6969"> Project Profile Website </a>
+
