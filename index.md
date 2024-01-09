@@ -8,7 +8,7 @@ h1   { color: #2D3E4E;
 section a     {color: #8CBDB9;
   font-family: 'Roboto Condensed';
   }
-section p     {color: #8CBDB9;
+section p     {color: #2D3E4E;
   font-family: 'Roboto Condensed';
   }
 </style>
