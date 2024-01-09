@@ -1,5 +1,5 @@
 ---
-layout: page-background-3
+layout: page-background-2
 ---
 
 <style>
