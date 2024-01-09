@@ -4,7 +4,7 @@ layout: page-background-3
 
 <style>
 body {
-    background-color: #FFF6F5;
+    background-color: #FFF8E6;
     text-align: center;
     height: 100%;
     overflow: hidden;
@@ -20,7 +20,7 @@ body {
   stroke-dashoffset: -474;
   stroke-width: 8px;
   fill: transparent;
-  stroke: #F4C1C1;
+  stroke: #151C36;
   border-bottom: 5px solid black;
   transition: stroke-width 1s, stroke-dashoffset 1s, stroke-dasharray 1s;
 }
@@ -29,26 +29,26 @@ body {
   font-size: 22px;
   line-height: 32px;
   letter-spacing: 8px;
-  color: #F4C1C1;
+  color: #151C36;
   top: -48px;
   position: relative;
 }
-.text a {color:#EE6969;}
+.text a {color:#151C36;}
 .svg-wrapper:hover .shape {
   stroke-width: 2px;
   stroke-dashoffset: 0;
   stroke-dasharray: 760;
 }
-h1   { color: #F4C1C1;
+h1   { color: #151C36;
     font-family: 'Roboto Condensed';
 }
-.main-content {color: #F4C1C1;
+.main-content {color: #151C36;
     font-family: 'Roboto Condensed';
 }
-section a     {color: #EE6969;
+section a     {color: #485778;
     font-family: 'Roboto Condensed';
 }
-section p     {color: #EE6969;
+section p     {color: #485778;
     font-family: 'Roboto Condensed';
 }
 </style>
