@@ -36,4 +36,5 @@
 }
 .column {
   flex: 50%;
+  text-align: start;
 }
