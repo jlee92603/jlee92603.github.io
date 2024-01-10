@@ -46,15 +46,15 @@ layout: page-background-2
         font-family: 'Roboto Condensed';
     }
     .main-content {color: #61f4de;
-                   font-size: 45px;
+                   font-size: 30px;
         font-family: 'Roboto Condensed';
     }
     section a     {color: #61f4de;
-                   font-size: 45px;
+                   font-size: 22px;
         font-family: 'Roboto Condensed';
     }
     section p     {color: #61f4de;
-                   font-size: 45px;
+                   font-size: 30px;
         font-family: 'Roboto Condensed';
     }
     </style>
