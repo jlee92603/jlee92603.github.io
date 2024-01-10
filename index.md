@@ -68,13 +68,15 @@ layout: page-background-2
 <body>
     <div class="container">
         <div class="slides">
-            <div class="row">
-                <div class="column"><h2 style="color: #FFFFFF"> PROJECTS </h2></div>
-                <div class="column">
-                    <a href="https://github.com/jlee92603/BrainTumor_CNN_Model/" style="color: #6e78ff"> Brain Tumor CNN Project </a>
-                    <a href="https://github.com/jlee92603/medical_image_exploration" style="color: #6e78ff"> Medical Image Exploration </a>
-                    <a href="https://jlee92603.github.io/projects/" style="color: #6e78ff"> Project Profile Website </a> 
-                </div>
+            <h2 style="color: #FFFFFF"> PROJECTS </h2>
+            <div>
+                <p></p>
+                <a href="https://github.com/jlee92603/BrainTumor_CNN_Model/" style="color: #61f4de"> Brain Tumor CNN Project </a>
+                <p></p>
+                <a href="https://github.com/jlee92603/medical_image_exploration" style="color: #61f4de"> Medical Image Exploration </a>
+                <p></p>
+                <a href="https://jlee92603.github.io/projects/" style="color: #61f4de"> Project Profile Website </a> 
+                <p></p>
             </div>
         </div>
         <div class="slides">
