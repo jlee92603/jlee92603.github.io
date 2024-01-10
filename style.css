@@ -24,13 +24,6 @@
 .slides img{
   width: 100%;
 }
-.slides h2{
-  font-family: 'Roboto Condensed';
-  color: #FFFFFF;
-  font-size: 70px;
-  font-weight: 600;
-  max-width: 100%;
-}
 .row {
   display: flex;
 }
