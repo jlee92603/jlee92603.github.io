@@ -84,13 +84,13 @@ layout: page-background-2
                 <p style="color:#FFFFFF"> This project builds and compiles a Convolutional Neural Network model to predict and classify different types of brain tumors from brain MRI image sets. Different hyperparameters are tested to find the set of parameters that optimizes the performance of the model. </p>
             </div>
             <div><a href="https://github.com/jlee92603/medical_image_exploration" style="color: #61f4de"> Medical Image Exploration </a>
-                <p style="color:#FFFFFF"> This project explores through severl different image analysis techniques, such as modeling medical (DICOM) image data sets and image segmentation. </p>
+                <p style="color:#FFFFFF"> This project explores several different image analysis techniques, such as modeling medical (DICOM) image data sets and image segmentation. </p>
             </div>
         </div>
         <div class="slides">
             <div><h2 style="color: #FFFFFF"> EDUCATION </h2></div>
             <div><h1> Case Western Reserve University </h1>
-                <p> Pursuring a Bachelor of Science in Engineering Degree <br/> Biomedical Engineering Major <br/> Computer Science Minor <br/> Expected Graduation: May 2025 <br/> GPA: 4.0 </p>
+                <p> Pursuing a Bachelor of Science in Engineering Degree <br/> Biomedical Engineering Major with Computer Science Minor <br/> Expected Graduation: May 2025 <br/> GPA: 4.0 </p>
             </div>
             <div><h1> Korea Advanced Institute of Science and Technology (KAIST) </h1>
                 <p> Studied abroad as a science engineering student during the Fall of 2022 in South Korea at KAIST. Developed an ability to adapt quickly and gained new cross cultural perspectives. </p>
