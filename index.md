@@ -67,4 +67,10 @@ section p     {color: #051e47;
 
 <p><b> Here are my Projects: </b></p>
 
+<a href="https://github.com/jlee92603/BrainTumor_CNN_Model/" style="color: #EE6969"> Brain Tumor CNN Project </a>
+
+<a href="https://github.com/jlee92603/medical_image_exploration" style="color: #EE6969"> Medical Image Exploration </a>
+
+<a href="https://jlee92603.github.io/projects/" style="color: #EE6969"> Project Profile Website </a>
+
 
