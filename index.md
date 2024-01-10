@@ -102,7 +102,7 @@ layout: page-background-2
                 <p> Currently working as a research assistant for a medical imaging and machine learning lab. Perform data analysis on CT DICOM images with Python and applied ML algorithms on real data sets. <br/> February 2023 - Current </p>
             </div>
             <div><h1> Capadona Research Lab </h1>
-                <p> Worked as a student assistant for a lab that focuses on the development of bioinspired materials for neural interfacing. Undertook several trainings that focus on clinical trials for neural devices. <br/> November 2021 - February 2023 </p>
+                <p> Worked as a student assistant for a lab that focuses on the development of bioinspired neural devices. Took several trainings to perform trials for neural devices. <br/> November 2021 - February 2023 </p>
             </div>
         </div>
         <div class="slides">
