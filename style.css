@@ -22,7 +22,7 @@
   scroll-snap-align: start;
 }
 .slides img{
-  width: 350px;
+  width: 500px;
 }
 .slides h2{
   font-family: 'Roboto Condensed';
