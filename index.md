@@ -43,6 +43,7 @@ layout: page-background-2
       stroke-dasharray: 760;
     }
     h1   { color: #61f4de;
+        font-size:22px;
         font-family: 'Roboto Condensed';
     }
     h2 {
@@ -87,7 +88,26 @@ layout: page-background-2
             </div>
         </div>
         <div class="slides">
-            <h2 style="color: #FFFFFF"> CAREER </h2>
+            <div><h2 style="color: #FFFFFF"> EDUCATION </h2></div>
+            <div><h1> Case Western Reserve University </h1>
+                <p> Pursuring a Bachelor of Science in Engineering Degree: Biomedical Engineering Major <br/> Minor in Computer Science <br/> Expected Graduation: May 2025 <br/> GPA: 4.0 </p>
+            </div>
+            <div><h1> Korea Advanced Institute of Science and Technology (KAIST) </h1>
+                <p> Studied abroad as a science engineering student during the Fall of 2022 in South Korea at KAIST. Developed an ability to quickly adapt into new environment and gained new cross cultural perspectives. Embraced and overcame diverse international challenges and gained a global network. </p>
+            </div> 
+        </div>
+        <div class="slides">
+            <div><h2 style="color: #FFFFFF"> CAREER </h2></div>
+            <div><a href="/Users/jihye/Downloads/20231109 resume.pdf" download> Download My Resume</a></div>
+            <div><h1> DAVID WILSON RESEARCH LAB </h1>
+                <p> Currently working as a research assistnt for a medical imaging and machine learning lab. Worked with Python to perform data analysis on CT DICOM images and applied machine learning algorithms and models on real data sets to train models. <br/> February 2023 - Current </p>
+            </div>
+            <div><h1> CAPADONA RESEARCH LAB </h1>
+                <p> Worked as a student research assistant for a lab that focuses on the development of bioinspired materials for neural interfacing. Undertook several different trainings and learnt lab techniques that focus on testing clinical trials for neural devices. <br/> November 2021 - February 2023 </p>
+            </div>
+            <div><h1> CAMBODIA VOLUNTEER </h1>
+                <p> Went to Cambodia, a third world country, to teach students living in impoverished areas English, music, and dancing. Provided vital support and engaged in humanitarian work at orphanages and drug rehabilitation centers</p>
+            </div>
         </div>
         <div class="slides">
             <h2 style="color: #FFFFFF"> SKILLS </h2>
