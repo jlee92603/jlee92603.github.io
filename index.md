@@ -53,7 +53,7 @@ layout: page-background-2
       max-width: 100%;
     }
     .main-content {color: #61f4de;
-                   font-size: 30px;
+                   font-size: 22px;
         font-family: 'Roboto Condensed';
     }
     section a     {color: #61f4de;
@@ -61,7 +61,7 @@ layout: page-background-2
         font-family: 'Roboto Condensed';
     }
     section p     {color: #FFFFFF;
-                   font-size: 30px;
+                   font-size: 18px;
         font-family: 'Roboto Condensed';
     }
     </style>
