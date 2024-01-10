@@ -5,13 +5,13 @@
   box-sizing: border-box;
 }
 .container{
-  width: auto;
+  width: 100;
   height: 100vh;
   overflow-y: scroll;
   scroll-snap-type: y mandatory;
 }
 .slides{
-  width: auto;
+  width: 100;
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -23,7 +23,7 @@
   scroll-snap-align: start;
 }
 .slides img{
-  width: auto;
+  width: 100;
 }
 .row {
   display: flex;
