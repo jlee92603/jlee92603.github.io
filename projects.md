@@ -60,7 +60,7 @@ section p     {color: #EE6969;
     <svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
       <rect class="shape" height="60" width="320" />
 
-      <div class="text"><a href="https://jlee92603.github.io/">My Resume</a></div>
+      <div class="text"><a href="https://jlee92603.github.io/projects">My Projects</a></div>
 
     </svg>
   </div>
