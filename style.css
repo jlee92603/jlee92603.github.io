@@ -29,7 +29,7 @@
   color: #FFFFFF;
   font-size: 70px;
   font-weight: 600;
-  max-width: 650px;
+  max-width: 100%;
 }
 .row {
   display: flex;
