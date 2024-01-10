@@ -58,7 +58,7 @@ layout: page-background-2
 </head>
 <body>
     <div class="container">
-        <div class="slides">
+        <div class="slides slide1">
             <div height="400" width="300">  </div>
             <div class="svg-wrapper">
             <svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
@@ -70,10 +70,10 @@ layout: page-background-2
             </div>
             <p> section 1 </p>
         </div>
-        <div class="slides">
-            <p> section 2 </p>
+        <div class="slides slide2">
+            <h2> section 2 </h2>
         </div>
-        <div class="slides">
+        <div class="slides slide3">
             <p> section 3 </p>
         </div>
     </div>
