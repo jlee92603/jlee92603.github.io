@@ -23,7 +23,7 @@ layout: page-background-2
       stroke-dashoffset: -474;
       stroke-width: 8px;
       fill: transparent;
-      stroke: #58E6FF;
+      stroke: #58E6FF; 
       border-bottom: 5px solid black;
       transition: stroke-width 1s, stroke-dashoffset 1s, stroke-dasharray 1s;
     }
