@@ -31,3 +31,9 @@
   font-weight: 600;
   max-width: 650px;
 }
+.row {
+  display: flex;
+}
+.column {
+  flex: 50%;
+}
