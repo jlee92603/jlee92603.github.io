@@ -35,6 +35,6 @@
   display: flex;
 }
 .column {
-  flex: 50%;
-  text-align: start;
+  display: flex;
+  text-align: center;
 }
