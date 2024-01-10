@@ -45,6 +45,13 @@ layout: page-background-2
     h1   { color: #61f4de;
         font-family: 'Roboto Condensed';
     }
+    h2 {
+      font-family: 'Roboto Condensed';
+      color: #FFFFFF;
+      font-size: 70px;
+      font-weight: 600;
+      max-width: 100%;
+    }
     .main-content {color: #61f4de;
                    font-size: 30px;
         font-family: 'Roboto Condensed';
