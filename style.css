@@ -25,6 +25,8 @@
   width: 350px;
 }
 .slides h2{
+  font-family: 'Roboto Condensed';
+  color: #58E6FF;
   font-size: 70px;
   font-weight: 600;
   max-width: 650px;
