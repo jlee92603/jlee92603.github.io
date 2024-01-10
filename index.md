@@ -19,7 +19,7 @@ layout: page-background-2
         width: 320px;
     }
     .shape {
-      stroke-dasharray: 140 540;
+      stroke-dasharray: 140 540; 
       stroke-dashoffset: -474;
       stroke-width: 8px;
       fill: transparent;
