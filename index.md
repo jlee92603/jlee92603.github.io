@@ -98,22 +98,28 @@ layout: page-background-2
         </div>
         <div class="slides">
             <div><h2 style="color: #FFFFFF"> CAREER </h2></div>
-            <div><a href="/Users/jihye/Downloads/20231109 resume.pdf" download> Download My Resume</a></div>
             <div><h1> DAVID WILSON RESEARCH LAB </h1>
                 <p> Currently working as a research assistant for a medical imaging and machine learning lab. Worked with Python to perform data analysis on CT DICOM images and applied machine learning algorithms and models on real data sets to train models. <br/> February 2023 - Current </p>
             </div>
             <div><h1> CAPADONA RESEARCH LAB </h1>
                 <p> Worked as a student research assistant for a lab that focuses on the development of bioinspired materials for neural interfacing. Undertook several different trainings and learnt lab techniques that focus on testing clinical trials for neural devices. <br/> November 2021 - February 2023 </p>
             </div>
+        </div>
+        <div class="slides">
+            <div><h2 style="color: #FFFFFF"> OTHER </h2></div>
+            <div><a href="/Users/jihye/Downloads/20231109 resume.pdf" download> My Resume</a>
+                <p>Download my resume above. </p>
+            </div>
+            <div><h1> SKILLS </h1>
+                <p> Programming: Python, MATLAB, Java, Github, TensorFlow, Matplotlib, Scipy, Numpy, Pydicom, Sklearn, Plotly <br/> Other Skills: Korean, Japanese, Oboe, Drum</p>
+            </div>
             <div><h1> CAMBODIA VOLUNTEER </h1>
                 <p> Went to Cambodia, a third world country, to teach students living in impoverished areas English, music, and dancing. Provided vital support and engaged in humanitarian work at orphanages and drug rehabilitation centers</p>
             </div>
         </div>
         <div class="slides">
-            <div><h2 style="color: #FFFFFF"> SKILLS </h2></div>
-            <div><h1> Python, MATLAB, Java, Github, TensorFlow, Matplotlib, Scipy, Numpy, Pydicom, Sklearn, Plotly </h1>
-                <p> Other Skills: Korean, Japanese, Oboe, Drum</p>
-            </div>
+            <div><h2 style="color: #FFFFFF"> CONTACT </h2></div>
+            <div><p>EMAIL: jlee92603@gmail.com</p></div>
         </div>
     </div>
 
