@@ -16,7 +16,7 @@
   jusitfy-content: center;
   gap: 50px;
   color: #fff;
-  background: linear-gradient(454deg, #000a12, #58E6FF);
+  background: #000a12;
 }
 .slides img{
   width: 350px;
@@ -25,13 +25,4 @@
   font-size: 70px;
   font-weight: 600;
   max-width: 650px;
-}
-.slide1{
-  background: linear-gradient(454deg, #000a12, #58E6FF);
-}
-.slide2{
-  background: linear-gradient(454deg, #58E6FF, #000a12);
-}
-.slide3{
-  background: linear-gradient(454deg, #000a12, #58E6FF);
 }
