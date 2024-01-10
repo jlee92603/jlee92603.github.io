@@ -80,10 +80,10 @@ layout: page-background-2
     <div class="container">
         <div class="slides">
             <div><h2> PROJECTS </h2></div>
-            <div><a href="https://github.com/jlee92603/BrainTumor_CNN_Model/" style="color: #61f4de"> Brain Tumor CNN Project (source code) </a>
+            <div><h2>Brain Tumor CNN Project</h2><br/><a href="https://github.com/jlee92603/BrainTumor_CNN_Model/" style="color: #61f4de; font-size:10px"> source code link </a>
                 <p style="color:#FFFFFF"> This project builds and compiles a Convolutional Neural Network model to predict and classify different types of brain tumors from brain MRI image sets. Different hyperparameters are tested to find the set of parameters that optimizes the performance of the model. </p>
             </div>
-            <div><a href="https://github.com/jlee92603/medical_image_exploration" style="color: #61f4de"> Medical Image Exploration (source code) </a>
+            <div><h2>Medical Image Exploration</h2><br/><a href="https://github.com/jlee92603/medical_image_exploration" style="color: #61f4de; font-size:10px"> source code link </a>
                 <p style="color:#FFFFFF"> This project explores several different image analysis techniques, such as modeling medical (DICOM) image data sets and image segmentation. </p>
             </div>
         </div>
