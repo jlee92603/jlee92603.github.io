@@ -23,7 +23,7 @@ layout: page-background-2
       stroke-dashoffset: -474;
       stroke-width: 8px;
       fill: transparent;
-      stroke: #58E6FF; 
+      stroke: #61f4de; 
       border-bottom: 5px solid black;
       transition: stroke-width 1s, stroke-dashoffset 1s, stroke-dasharray 1s;
     }
@@ -32,26 +32,26 @@ layout: page-background-2
       font-size: 22px;
       line-height: 32px;
       letter-spacing: 8px;
-      color: #58E6FF;
+      color: #61f4de;
       top: -48px;
       position: relative;
     }
-    .text a {color:#58E6FF;}
+    .text a {color:#61f4de;}
     .svg-wrapper:hover .shape {
       stroke-width: 2px;
       stroke-dashoffset: 0;
       stroke-dasharray: 760;
     }
-    h1   { color: #58E6FF;
+    h1   { color: #61f4de;
         font-family: 'Roboto Condensed';
     }
-    .main-content {color: #58E6FF;
+    .main-content {color: #61f4de;
         font-family: 'Roboto Condensed';
     }
-    section a     {color: #58E6FF;
+    section a     {color: #61f4de;
         font-family: 'Roboto Condensed';
     }
-    section p     {color: #58E6FF;
+    section p     {color: #61f4de;
         font-family: 'Roboto Condensed';
     }
     </style>
@@ -68,15 +68,13 @@ layout: page-background-2
 <body>
     <div class="container">
         <div class="slides">
-            <h2 style="color: #FFFFFF"> PROJECTS </h2>
-            <div style="background-color:white;color:black;padding:20px;">
-            <a href="https://github.com/jlee92603/BrainTumor_CNN_Model/" style="color: #58E6FF"> Brain Tumor CNN Project </a>
-            </div>
-            <div style="background-color:white;color:black;padding:20px;">
-            <a href="https://github.com/jlee92603/medical_image_exploration" style="color: #58E6FF"> Medical Image Exploration </a>
-            </div>
-            <div style="background-color:white;color:black;padding:20px;">
-            <a href="https://jlee92603.github.io/projects/" style="color: #58E6FF"> Project Profile Website </a> 
+            <div class="row">
+                <div class="column"><h2 style="color: #FFFFFF"> PROJECTS </h2></div>
+                <div class="column">
+                    <a href="https://github.com/jlee92603/BrainTumor_CNN_Model/" style="color: #6e78ff"> Brain Tumor CNN Project </a>
+                    <a href="https://github.com/jlee92603/medical_image_exploration" style="color: #6e78ff"> Medical Image Exploration </a>
+                    <a href="https://jlee92603.github.io/projects/" style="color: #6e78ff"> Project Profile Website </a> 
+                </div>
             </div>
         </div>
         <div class="slides">
