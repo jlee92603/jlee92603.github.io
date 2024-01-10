@@ -7,7 +7,6 @@ layout: page-background-2
     <link rel="stylesheet" href="style.css">
     <style>
     body {
-        min-width: 1167px;
         background-color: #000a12;
         text-align: center;
         height: 100%;
@@ -79,11 +78,11 @@ layout: page-background-2
 <body>
     <div class="container">
         <div class="slides">
-            <h2> PROJECTS </h2>          
+            <div><h2> PROJECTS </h2></div>
+            <div><a href="https://github.com/jlee92603/BrainTumor_CNN_Model/" style="color: #61f4de"> Brain Tumor CNN Project </a></div>
+            <div><a href="https://github.com/jlee92603/medical_image_exploration" style="color: #61f4de"> Medical Image Exploration </a></div>
+            <div><a href="https://jlee92603.github.io/projects/" style="color: #61f4de"> Project Profile Website </a></div>
         </div>
-        <a href="https://github.com/jlee92603/BrainTumor_CNN_Model/" style="color: #61f4de"> Brain Tumor CNN Project </a>
-        <a href="https://github.com/jlee92603/medical_image_exploration" style="color: #61f4de"> Medical Image Exploration </a>
-        <a href="https://jlee92603.github.io/projects/" style="color: #61f4de"> Project Profile Website </a> 
         <div class="slides">
             <h2 style="color: #FFFFFF"> CAREER </h2>
         </div>
