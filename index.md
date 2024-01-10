@@ -7,6 +7,7 @@ layout: page-background-2
     <link rel="stylesheet" href="style.css">
     <style>
     body {
+        min-width: 1167px;
         background-color: #000a12;
         text-align: center;
         height: 100%;
