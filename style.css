@@ -18,7 +18,7 @@
   jusitfy-content: center;
   gap: 50px;
   color: #fff;
-  background: #000a12;
+  background: #000a12; 
   scroll-snap-align: start;
 }
 .slides img{
