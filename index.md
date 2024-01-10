@@ -60,7 +60,7 @@ layout: page-background-2
                    font-size: 22px;
         font-family: 'Roboto Condensed';
     }
-    section p     {color: #61f4de;
+    section p     {color: #FFFFFF;
                    font-size: 30px;
         font-family: 'Roboto Condensed';
     }
@@ -79,9 +79,12 @@ layout: page-background-2
     <div class="container">
         <div class="slides">
             <div><h2> PROJECTS </h2></div>
-            <div><a href="https://github.com/jlee92603/BrainTumor_CNN_Model/" style="color: #61f4de"> Brain Tumor CNN Project </a></div>
-            <div><a href="https://github.com/jlee92603/medical_image_exploration" style="color: #61f4de"> Medical Image Exploration </a></div>
-            <div><a href="https://jlee92603.github.io/projects/" style="color: #61f4de"> Project Profile Website </a></div>
+            <div><a href="https://github.com/jlee92603/BrainTumor_CNN_Model/" style="color: #61f4de"> Brain Tumor CNN Project </a>
+                <p style="color:#FFFFFF"> This project builds and compiles a Convolutional Neural Network model to predict and classify different types of brain tumors from brain MRI image sets. Different hyperparameters are tested to find the set of parameters that optimizes the performance of the model. </p>
+            </div>
+            <div><a href="https://github.com/jlee92603/medical_image_exploration" style="color: #61f4de"> Medical Image Exploration </a>
+                <p style="color:#FFFFFF"> This project explores through severl different image analysis techniques, such as modeling medical (DICOM) image data sets and image segmentation. </p>
+            </div>
         </div>
         <div class="slides">
             <h2 style="color: #FFFFFF"> CAREER </h2>
