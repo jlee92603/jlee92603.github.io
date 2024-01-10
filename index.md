@@ -110,7 +110,10 @@ layout: page-background-2
             </div>
         </div>
         <div class="slides">
-            <h2 style="color: #FFFFFF"> SKILLS </h2>
+            <div><h2 style="color: #FFFFFF"> SKILLS </h2></div>
+            <div><h1> Python, MATLAB, Java, Github, TensorFlow, Matplotlib, Scipy, Numpy, Pydicom, Sklearn, Plotly </h1>
+                <p> Other Skills: Korean, Japanese, Oboe, Drum</p>
+            </div>
         </div>
     </div>
 
