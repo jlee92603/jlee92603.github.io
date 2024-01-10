@@ -73,4 +73,5 @@ section p     {color: #58E6FF;
 
 <a href="https://jlee92603.github.io/projects/" style="color: #EE6969"> Project Profile Website </a>
 
+<p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
 
