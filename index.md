@@ -71,7 +71,7 @@ layout: page-background-2
             <p> section 1 </p>
         </div>
         <div class="slides">
-            <h2> section 2 </h2>
+            <p> section 2 </p>
         </div>
         <div class="slides">
             <p> section 3 </p>
