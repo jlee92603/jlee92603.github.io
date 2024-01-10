@@ -93,16 +93,16 @@ layout: page-background-2
                 <p> Pursuring a Bachelor of Science in Engineering Degree <br/> Biomedical Engineering Major <br/> Computer Science Minor <br/> Expected Graduation: May 2025 <br/> GPA: 4.0 </p>
             </div>
             <div><h1> Korea Advanced Institute of Science and Technology (KAIST) </h1>
-                <p> Studied abroad as a science engineering student during the Fall of 2022 in South Korea at KAIST. Developed an ability to quickly adapt into new environment and gained new cross cultural perspectives. Embraced and overcame diverse international challenges and gained a global network. </p>
+                <p> Studied abroad as a science engineering student during the Fall of 2022 in South Korea at KAIST. Developed an ability to adapt quickly and gained new cross cultural perspectives. </p>
             </div> 
         </div>
         <div class="slides">
             <div><h2 style="color: #FFFFFF"> CAREER </h2></div>
             <div><h1> DAVID WILSON RESEARCH LAB </h1>
-                <p> Currently working as a research assistant for a medical imaging and machine learning lab. Worked with Python to perform data analysis on CT DICOM images and applied machine learning algorithms and models on real data sets to train models. <br/> February 2023 - Current </p>
+                <p> Currently working as a research assistant for a medical imaging and machine learning lab. Worked with Python to perform data analysis on CT DICOM images and applied machine learning algorithms on real data sets to train models. <br/> February 2023 - Current </p>
             </div>
             <div><h1> CAPADONA RESEARCH LAB </h1>
-                <p> Worked as a student research assistant for a lab that focuses on the development of bioinspired materials for neural interfacing. Undertook several different trainings and learnt lab techniques that focus on testing clinical trials for neural devices. <br/> November 2021 - February 2023 </p>
+                <p> Worked as a student research assistant for a lab that focuses on the development of bioinspired materials for neural interfacing. Undertook several different trainings that focus on testing clinical trials for neural devices. <br/> November 2021 - February 2023 </p>
             </div>
         </div>
         <div class="slides">
