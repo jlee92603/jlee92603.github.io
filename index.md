@@ -107,9 +107,6 @@ layout: page-background-2
         </div>
         <div class="slides">
             <div><h2 style="color: #FFFFFF"> OTHER </h2></div>
-            <div><a href="/Users/jihye/Downloads/20231109 resume.pdf" download> My Resume</a>
-                <p>Download my resume above. </p>
-            </div>
             <div><h1> SKILLS </h1>
                 <p> Programming: Python, MATLAB, Java, Github, TensorFlow, Matplotlib, Scipy, Numpy, Pydicom, Sklearn, Plotly <br/> Other Skills: Korean, Japanese, Oboe, Drum</p>
             </div>
