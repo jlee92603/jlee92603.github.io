@@ -1,17 +1,12 @@
 ---
 layout: page-background-2
 ---
-
-<!DOCTYPE html>
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <style>
     body {
-        background-image: url('{{ page.background_image }}');
-        background-repeat: repeat-y;
-        background-size: cover;
         background-color: #000a12;
         text-align: center;
         height: 100%;
@@ -47,8 +42,6 @@ layout: page-background-2
       stroke-dashoffset: 0;
       stroke-dasharray: 760;
     }
-    h1 a {color: #58E6FF ! important;}
-      .view a {color: #58E6FF ! important;}
     h1   { color: #58E6FF;
         font-family: 'Roboto Condensed';
     }
@@ -64,23 +57,6 @@ layout: page-background-2
     </style>
 </head>
 <body>
-  <div class="wrapper">
-      <header>
-        <h1 style= "color:#58E6FF";><a href="https://jlee92603.github.io/">Jihye Lee</a></h1>
-        <p style="color:#58E6FF";>{{ site.description | default: site.github.project_tagline }}</p>
-      </header>
-      <section>
-
-      {{ content }}
-
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
     <div height="400" width="300">  </div>
     <div class="svg-wrapper">
         <svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
@@ -88,6 +64,8 @@ layout: page-background-2
             <div class="text"><a href="https://jlee92603.github.io/projects">My Projects</a></div>
         </svg>
     </div>
+</body>
+<body>
     <div class="container">
         <div class="slides">
             <p> section 1 </p>
@@ -101,22 +79,13 @@ layout: page-background-2
     </div>
 
 
-    <a href="https://github.com/jlee92603/BrainTumor_CNN_Model/" style="color: #58E6FF"> Brain Tumor CNN Project </a>
-    
-    <a href="https://github.com/jlee92603/medical_image_exploration" style="color: #58E6FF"> Medical Image Exploration </a>
-    
-    <a href="https://jlee92603.github.io/projects/" style="color: #58E6FF"> Project Profile Website </a>
-    
-    <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-      
-    <div>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-  
+<a href="https://github.com/jlee92603/BrainTumor_CNN_Model/" style="color: #58E6FF"> Brain Tumor CNN Project </a>
+
+<a href="https://github.com/jlee92603/medical_image_exploration" style="color: #58E6FF"> Medical Image Exploration </a>
+
+<a href="https://jlee92603.github.io/projects/" style="color: #58E6FF"> Project Profile Website </a>
+
+<p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+
 </body>
 </html>
