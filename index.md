@@ -79,9 +79,7 @@ layout: page-background-2
     <div class="container">
         <div class="slides">
             <h2> PROJECTS </h2>
-            <br/>
-            <br/>
-            <br/>
+            <div height="400" width="300">  </div>
             <a href="https://github.com/jlee92603/BrainTumor_CNN_Model/" style="color: #61f4de"> Brain Tumor CNN Project </a>
             <br/>
             <br/>
