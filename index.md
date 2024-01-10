@@ -98,10 +98,10 @@ layout: page-background-2
         </div>
         <div class="slides">
             <div><h2 style="color: #FFFFFF"> CAREER </h2></div>
-            <div><h1> DAVID WILSON RESEARCH LAB </h1>
+            <div><h1> David Wilson Research Lab</h1>
                 <p> Currently working as a research assistant for a medical imaging and machine learning lab. Perform data analysis on CT DICOM images with Python and applied ML algorithms on real data sets. <br/> February 2023 - Current </p>
             </div>
-            <div><h1> CAPADONA RESEARCH LAB </h1>
+            <div><h1> Capadona Research Lab </h1>
                 <p> Worked as a student assistant for a lab that focuses on the development of bioinspired materials for neural interfacing. Undertook several trainings that focus on clinical trials for neural devices. <br/> November 2021 - February 2023 </p>
             </div>
         </div>
