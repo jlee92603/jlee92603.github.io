@@ -1,7 +1,7 @@
 ---
 layout: page-background-2
 ---
-<!DOCTYPE html>
+<html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
@@ -57,23 +57,23 @@ layout: page-background-2
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="slides slide1">
-            <div height="400" width="300">  </div>
-            <div class="svg-wrapper">
-            <svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
+    <div height="400" width="300">  </div>
+    <div class="svg-wrapper">
+        <svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
             <rect class="shape" height="60" width="320" />
-            
-            <div class="text"><a href="https://jlee92603.github.io/">My Projects</a></div>
-            
-            </svg>
-            </div>
+            <div class="text"><a href="https://jlee92603.github.io/projects">My Projects</a></div>
+        </svg>
+    </div>
+</body>
+<body>
+    <div class="container">
+        <div class="slides">
             <p> section 1 </p>
         </div>
-        <div class="slides slide2">
+        <div class="slides">
             <h2> section 2 </h2>
         </div>
-        <div class="slides slide3">
+        <div class="slides">
             <p> section 3 </p>
         </div>
     </div>
